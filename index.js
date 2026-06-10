@@ -32,5 +32,5 @@ Deno.serve((req) => {
   }
 
   // Fallback for general browser requests and server listings
-  return fetch("https://eagler.host", req);
+  return fetch("https://topeaglerservers.com", req);
 });
